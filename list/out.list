@@ -2,4 +2,4 @@
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,services.googleapis.com
-DOMAIN-KEYWORD,google
+#DOMAIN-KEYWORD,google
