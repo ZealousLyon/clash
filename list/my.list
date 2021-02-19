@@ -2,3 +2,5 @@
 DOMAIN-KEYWORD,xiangkanju
 # 天猫国际使用VPN无法打开
 DOMAIN-KEYWORD,tmall
+# 下载站
+DOMAIN,downloadly.net
