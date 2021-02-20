@@ -1,7 +1,12 @@
 # 图床站
 DOMAIN-SUFFIX,loli.net
 # Google服务
-#DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,googleapis
+DOMAIN,googleapis.cn
+DOMAIN,googleapis.com
+DOMAIN,services.googleapis.cn
+DOMAIN,services.googleapis.com
+DOMAIN,android.googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,services.googleapis.cn
