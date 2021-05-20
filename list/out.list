@@ -11,4 +11,6 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN,googleapis.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-KEYWORD,googleapis
-
+# 邮件
+DOMAIN-SUFFIX,imap-mail.outlook.com
+DOMAIN-SUFFIX,imap.gmail.com
