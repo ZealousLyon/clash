@@ -13,4 +13,6 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-KEYWORD,googleapis
 # 邮件
 DOMAIN-SUFFIX,imap-mail.outlook.com
+DOMAIN-SUFFIX,smtp-mail.outlook.com
 DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,smtp.gmail.com
