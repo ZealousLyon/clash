@@ -1,8 +1,9 @@
 # 想看剧-左手吃斋
 DOMAIN-KEYWORD,xiangkanju
-# 天猫国际使用VPN无法打开
+# 天猫国际无法打开
 DOMAIN-KEYWORD,tmall
 # 下载站
+DOMAIN-SUFFIX,ihzzz.com
 DOMAIN-SUFFIX,downloadly.net
 DOMAIN-SUFFIX,downloadly.ir
 DOMAIN-SUFFIX,128100.xyz
@@ -12,3 +13,6 @@ DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,emby.ok.edu.hk
 DOMAIN-SUFFIX,emby.otakudrive.life
+# Edge
+DOMAIN-SUFFIX,edge.activity.windows.com
+DOMAIN-SUFFIX,edge-enterprise.activity.windows.com
