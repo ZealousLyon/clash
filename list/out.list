@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,imap-mail.outlook.com
 DOMAIN-SUFFIX,smtp-mail.outlook.com
 DOMAIN-SUFFIX,imap.gmail.com
 DOMAIN-SUFFIX,smtp.gmail.com
+# Bing
+DOMAIN-SUFFIX,www.bing.com
