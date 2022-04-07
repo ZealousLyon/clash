@@ -13,7 +13,8 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-KEYWORD,googleapis
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,www.gstatic.com
-DOMAIN-SUFFIX,beacons.gcp.gvt2.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
 # 邮件
 DOMAIN-SUFFIX,imap-mail.outlook.com
 DOMAIN-SUFFIX,smtp-mail.outlook.com
