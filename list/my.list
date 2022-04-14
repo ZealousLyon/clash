@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,edge.activity.windows.com
 DOMAIN-SUFFIX,edge-enterprise.activity.windows.com
 #Else
 DOMAIN-SUFFIX,exmail.qq.com
+DOMAIN-SUFFIX,tophub.today
