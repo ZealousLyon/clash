@@ -1,6 +1,7 @@
+payload:
 # Emby
-DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,plusmedia.site
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,emby.ok.edu.hk
-DOMAIN-SUFFIX,emby.otakudrive.life
+  - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN-SUFFIX,plusmedia.site
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,emby.ok.edu.hk
+  - DOMAIN-SUFFIX,emby.otakudrive.life
