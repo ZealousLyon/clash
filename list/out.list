@@ -14,13 +14,18 @@ payload:
   - DOMAIN-KEYWORD,googleapis
   - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,www.gstatic.com
+  - DOMAIN-SUFFIX,gvt0.com
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt3.com
 # 邮件
   - DOMAIN-SUFFIX,imap-mail.outlook.com
-  - DOMAIN-SUFFIX,smtp-mail.outlook.com
   - DOMAIN-SUFFIX,imap.gmail.com
+  - DOMAIN-SUFFIX,outlook.office365.com
+  - DOMAIN-SUFFIX,pop.gmail.com
+  - DOMAIN-SUFFIX,smtp-mail.outlook.com
   - DOMAIN-SUFFIX,smtp.gmail.com
+  - DOMAIN-SUFFIX,smtp.office365.com
 # Bing
   - DOMAIN-SUFFIX,www.bing.com
   - DOMAIN-SUFFIX,bing.com
