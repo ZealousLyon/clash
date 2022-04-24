@@ -17,3 +17,4 @@ payload:
 #Else
   - DOMAIN-SUFFIX,exmail.qq.com
   - DOMAIN-SUFFIX,tophub.today
+  - DOMAIN-SUFFIX,cdn.digitalcnzz.com
