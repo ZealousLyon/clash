@@ -6,10 +6,8 @@ payload:
   - DOMAIN-KEYWORD,tmall
 # 下载站
   - DOMAIN-SUFFIX,ihzzz.com
-  - DOMAIN-SUFFIX,hk.lyon7.com
-  - DOMAIN-SUFFIX,tokyo.lyon7.com
-  - DOMAIN-SUFFIX,ru.lyon7.com
-  - DOMAIN-SUFFIX,vir.lyon7.com
+  - DOMAIN-SUFFIX,lyon7.com
+  - DOMAIN-SUFFIX,aierport.com
   - DOMAIN-KEYWORD,epicgames-download
 # Edge
   - DOMAIN-SUFFIX,edge.activity.windows.com
