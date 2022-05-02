@@ -36,3 +36,5 @@ payload:
 # Github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
+# Else
+  - DOMAIN-SUFFIX,hostloc.com
