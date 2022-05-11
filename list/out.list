@@ -2,6 +2,8 @@ payload:
 # 图床站
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,yongjiujiexi.com
+  - DOMAIN-SUFFIX,highwebmedia.com
+  - DOMAIN-SUFFIX,doppiocdn.com
 # Google服务
   - DOMAIN,services.googleapis.cn
   - DOMAIN-SUFFIX,services.googleapis.cn
