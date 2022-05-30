@@ -12,6 +12,7 @@ payload:
 #Else
   - DOMAIN-SUFFIX,ihzzz.com
   - DOMAIN-SUFFIX,lyon7.com
+  - DOMAIN-SUFFIX,aierport.com
   - DOMAIN-SUFFIX,exmail.qq.com
   - DOMAIN-SUFFIX,tophub.today
   - DOMAIN-SUFFIX,cdn.digitalcnzz.com

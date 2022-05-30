@@ -15,7 +15,7 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-KEYWORD,googleapis
   - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
-  - DOMAIN-SUFFIX,www.gstatic.com
+  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,gvt0.com
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,gvt2.com
