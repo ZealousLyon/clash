@@ -1,7 +1,6 @@
 payload:
 # 想看剧-左手吃斋
   - DOMAIN-KEYWORD,xiangkanju
-  - DOMAIN-KEYWORD,555dy
 # 天猫国际无法打开
   - DOMAIN-KEYWORD,tmall
 # 下载站
