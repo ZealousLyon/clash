@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,aierport.com
   - DOMAIN-SUFFIX,666077.xyz
   - DOMAIN-SUFFIX,exmail.qq.com
-  - DOMAIN-SUFFIX,tophub.today
+#  - DOMAIN-SUFFIX,tophub.today
   - DOMAIN-SUFFIX,cdn.digitalcnzz.com
   - DOMAIN-SUFFIX,raidrive.com
   - DOMAIN-SUFFIX,catsxp.com
