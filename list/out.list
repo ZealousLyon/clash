@@ -40,3 +40,4 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
 # Else
   - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,tophub.today
