@@ -11,7 +11,7 @@ payload:
 #Else
   - DOMAIN-SUFFIX,ihzzz.com
   - DOMAIN-SUFFIX,lyon7.com
-  - DOMAIN-SUFFIX,aierport.com
+#  - DOMAIN-SUFFIX,aierport.com
   - DOMAIN-SUFFIX,666077.xyz
   - DOMAIN-SUFFIX,exmail.qq.com
 #  - DOMAIN-SUFFIX,tophub.today
@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,azure-devices.net
   - DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
   - DOMAIN-SUFFIX,geegee.net
+  - DOMAIN-SUFFIX,jd.com
