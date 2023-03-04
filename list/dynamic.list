@@ -1,6 +1,8 @@
 payload:
   - DOMAIN,aierport.com
   - DOMAIN,www.aierport.com
+  - DOMAIN,aierplane.com
+  - DOMAIN,www.aierplane.com
   - DOMAIN-SUFFIX,lg.kuaichedao.xyz
   - DOMAIN-SUFFIX,50network.com
   - DOMAIN-SUFFIX,as11161.net
