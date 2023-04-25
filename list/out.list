@@ -21,13 +21,13 @@ payload:
   - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gvt3.com
 # 邮件
-  - DOMAIN-SUFFIX,imap-mail.outlook.com
-  - DOMAIN-SUFFIX,imap.gmail.com
-  - DOMAIN-SUFFIX,outlook.office365.com
   - DOMAIN-SUFFIX,pop.gmail.com
-  - DOMAIN-SUFFIX,smtp-mail.outlook.com
+  - DOMAIN-SUFFIX,imap.gmail.com
   - DOMAIN-SUFFIX,smtp.gmail.com
-  - DOMAIN-SUFFIX,smtp.office365.com
+#  - DOMAIN-SUFFIX,imap-mail.outlook.com
+#  - DOMAIN-SUFFIX,smtp-mail.outlook.com
+#  - DOMAIN-SUFFIX,outlook.office365.com
+#  - DOMAIN-SUFFIX,smtp.office365.com
 # Github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
