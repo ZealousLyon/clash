@@ -7,3 +7,7 @@ payload:
   - DOMAIN-SUFFIX,52papa.tv
   - DOMAIN-SUFFIX,madou.club
   - DOMAIN-SUFFIX,yocoolnet.in
+#建议美国节点
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,tophub.today
+  - DOMAIN-SUFFIX,idcoffer.com
