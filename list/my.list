@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,edge-enterprise.activity.windows.com
 #Else
   - DOMAIN-SUFFIX,666077.xyz
-  - DOMAIN-SUFFIX,exmail.qq.com
+#  - DOMAIN-SUFFIX,exmail.qq.com
 #  - DOMAIN-SUFFIX,tophub.today
   - DOMAIN-SUFFIX,cdn.digitalcnzz.com
 #  - DOMAIN-SUFFIX,raidrive.com
