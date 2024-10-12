@@ -1,6 +1,7 @@
 payload:
 # Emby
   - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN-SUFFIX,jmsuper.com
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.ok.edu.hk
@@ -9,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,emby.kim
   - DOMAIN-SUFFIX,direct.nebula-emby.com
   - DOMAIN-SUFFIX,infinityfly.top
+
