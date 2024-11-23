@@ -1,5 +1,6 @@
 payload:
 #下载专用(建议大带宽)
+  - DOMAIN-SUFFIX,5277.cc
   - DOMAIN-SUFFIX,5278.cc
   - DOMAIN-SUFFIX,hboav.com
   - DOMAIN-SUFFIX,128100.xyz
