@@ -4,6 +4,10 @@ payload:
   - DOMAIN-SUFFIX,jmsuper.com
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,term.wtf
+  - DOMAIN-SUFFIX,makima.online
+  - DOMAIN-SUFFIX,emby.nebula-media.org
+  - DOMAIN-SUFFIX,nebula-media.org
   - DOMAIN-SUFFIX,emby.ok.edu.hk
   - DOMAIN-SUFFIX,emby.otakudrive.life
   - DOMAIN-SUFFIX,misakaf.org
