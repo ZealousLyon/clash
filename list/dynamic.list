@@ -5,8 +5,6 @@ payload:
   - DOMAIN-SUFFIX,aierplane.com
   - DOMAIN,191888.xyz
   - DOMAIN-SUFFIX,191888.xyz
-  - DOMAIN,097777.xyz
-  - DOMAIN-SUFFIX,097777.xyz
   - DOMAIN,devilsub.com
   - DOMAIN-SUFFIX,devilsub.com
   - DOMAIN-SUFFIX,lg.kuaichedao.xyz
