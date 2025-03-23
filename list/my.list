@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,bestemby.com
   - DOMAIN-SUFFIX,makima.online
   - DOMAIN-SUFFIX,starsho.nebula-media.org
+  - DOMAIN-SUFFIX,starsho-strem.nebula-media.org
 # 天猫国际无法打开
   - DOMAIN-KEYWORD,tmall
   - DOMAIN-SUFFIX,jd.com
