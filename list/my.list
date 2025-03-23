@@ -1,7 +1,9 @@
 payload:
-# 想看剧-左手吃斋
+# 影视
   - DOMAIN-KEYWORD,xiangkanju
+  - DOMAIN-SUFFIX,bestemby.com
   - DOMAIN-SUFFIX,makima.online
+  - DOMAIN-SUFFIX,starsho.nebula-media.org
 # 天猫国际无法打开
   - DOMAIN-KEYWORD,tmall
   - DOMAIN-SUFFIX,jd.com
@@ -24,5 +26,4 @@ payload:
   - DOMAIN-SUFFIX,pull.wzxpxb.cn
   - DOMAIN-SUFFIX,galaxyappstore.com
   - DOMAIN-SUFFIX,caiyunapp.com
-  - DOMAIN-SUFFIX,bestemby.com
   - DOMAIN-SUFFIX,jiashule.com
