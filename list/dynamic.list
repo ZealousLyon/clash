@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,direct-cdn1.nebula-media.org
   - DOMAIN-SUFFIX,starharn-global.nebula-media.org
   - DOMAIN-SUFFIX,starharn-direct.nebula-media.org
+  - DOMAIN-SUFFIX,lilyemby.com
