@@ -1,12 +1,4 @@
 payload:
-#  - DOMAIN,aierport.com
-#  - DOMAIN-SUFFIX,aierport.com
-#  - DOMAIN,aierplane.com
-#  - DOMAIN-SUFFIX,aierplane.com
-#  - DOMAIN,191888.xyz
-#  - DOMAIN-SUFFIX,191888.xyz
-#  - DOMAIN,devilsub.com
-#  - DOMAIN-SUFFIX,devilsub.com
   - DOMAIN-SUFFIX,lg.kuaichedao.xyz
   - DOMAIN-SUFFIX,50network.com
   - DOMAIN-SUFFIX,as11161.net
@@ -17,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,starharn-global.nebula-media.org
   - DOMAIN-SUFFIX,starharn-direct.nebula-media.org
   - DOMAIN-SUFFIX,lilyemby.com
+  - DOMAIN-SUFFIX,emby.wtf
