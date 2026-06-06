@@ -9,5 +9,12 @@ payload:
   - DOMAIN-SUFFIX,starharn-global.nebula-media.org
   - DOMAIN-SUFFIX,starharn-direct.nebula-media.org
   - DOMAIN-SUFFIX,cdn.lilyemby.com
+  - DOMAIN-SUFFIX,plusjp1.younoyes.com
+  - DOMAIN-SUFFIX,plusus1.younoyes.com
+  - DOMAIN-SUFFIX,plusus2.younoyes.com
+  - DOMAIN-SUFFIX,plusus3.younoyes.com
+  - DOMAIN-SUFFIX,plushk1.younoyes.com
+  - DOMAIN-SUFFIX,plushk2.younoyes.com
+  - DOMAIN-SUFFIX,plusde1.younoyes.com
 //  - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,e.xygocc.com
